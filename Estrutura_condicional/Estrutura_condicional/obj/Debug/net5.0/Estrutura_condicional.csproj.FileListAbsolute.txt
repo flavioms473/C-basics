@@ -1,0 +1,16 @@
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\Estrutura_condicional.exe
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\Estrutura_condicional.deps.json
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\Estrutura_condicional.runtimeconfig.json
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\Estrutura_condicional.runtimeconfig.dev.json
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\Estrutura_condicional.dll
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\ref\Estrutura_condicional.dll
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\bin\Debug\net5.0\Estrutura_condicional.pdb
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.csproj.AssemblyReference.cache
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.AssemblyInfoInputs.cache
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.AssemblyInfo.cs
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.csproj.CoreCompileInputs.cache
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.dll
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\ref\Estrutura_condicional.dll
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.pdb
+C:\revisão C#\Estrutura_condicional\Estrutura_condicional\obj\Debug\net5.0\Estrutura_condicional.genruntimeconfig.cache
