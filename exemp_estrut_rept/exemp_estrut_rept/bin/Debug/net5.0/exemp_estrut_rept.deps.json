@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exemp_estrut_rept/1.0.0": {
+        "runtime": {
+          "exemp_estrut_rept.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemp_estrut_rept/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
