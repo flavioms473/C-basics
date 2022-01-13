@@ -1,0 +1,16 @@
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\tabuada.exe
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\tabuada.deps.json
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.json
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.dev.json
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\tabuada.dll
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\ref\tabuada.dll
+C:\revisão C#\tabuada\tabuada\bin\Debug\net5.0\tabuada.pdb
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.csproj.AssemblyReference.cache
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfoInputs.cache
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfo.cs
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.csproj.CoreCompileInputs.cache
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.dll
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\ref\tabuada.dll
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.pdb
+C:\revisão C#\tabuada\tabuada\obj\Debug\net5.0\tabuada.genruntimeconfig.cache
