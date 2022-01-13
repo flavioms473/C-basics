@@ -1,0 +1,16 @@
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\exemp_estrut_rept.exe
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\exemp_estrut_rept.deps.json
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\exemp_estrut_rept.runtimeconfig.json
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\exemp_estrut_rept.runtimeconfig.dev.json
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\exemp_estrut_rept.dll
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\ref\exemp_estrut_rept.dll
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\bin\Debug\net5.0\exemp_estrut_rept.pdb
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.csproj.AssemblyReference.cache
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.GeneratedMSBuildEditorConfig.editorconfig
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.AssemblyInfoInputs.cache
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.AssemblyInfo.cs
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.csproj.CoreCompileInputs.cache
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.dll
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\ref\exemp_estrut_rept.dll
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.pdb
+C:\revisão C#\exemp_estrut_rept\exemp_estrut_rept\obj\Debug\net5.0\exemp_estrut_rept.genruntimeconfig.cache
